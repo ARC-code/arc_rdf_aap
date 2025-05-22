@@ -7,6 +7,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:role="http://www.loc.gov/loc.terms/relators/">
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Color</dc:title>
@@ -56,6 +57,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-you-who-read-my-book-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-you-who-read-my-book-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To You Who Read My Book</dc:title>
@@ -176,6 +178,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/yet-do-i-marvel-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/yet-do-i-marvel-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Yet Do I Marvel</dc:title>
@@ -209,6 +212,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/brown-boy-to-brown-girl-remembrance-on-a-hill-for-yolanda-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/brown-boy-to-brown-girl-remembrance-on-a-hill-for-yolanda-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Brown Boy to Brown Girl (Remembrance on a hill) (For Yolanda)</dc:title>
@@ -244,6 +248,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-brown-girl-dead-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-brown-girl-dead-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Brown Girl Dead</dc:title>
@@ -274,6 +279,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-brown-girl-for-roberta-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-brown-girl-for-roberta-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To a Brown Girl (for Roberta)</dc:title>
@@ -305,6 +311,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-brown-boy-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-brown-boy-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To a Brown Boy</dc:title>
@@ -341,6 +348,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/black-magdalens-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/black-magdalens-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Black Magdalens</dc:title>
@@ -377,6 +385,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/atlantic-city-waiter-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/atlantic-city-waiter-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Atlantic City Waiter</dc:title>
@@ -413,6 +422,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/near-white-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/near-white-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Near White</dc:title>
@@ -437,6 +447,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/tableau-for-donald-duff-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/tableau-for-donald-duff-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Tableau (For Donald Duff)</dc:title>
@@ -471,6 +482,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-wine-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-wine-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Harlem Wine</dc:title>
@@ -505,6 +517,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/simon-the-cyrenian-speaks-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/simon-the-cyrenian-speaks-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Simon the Cyrenian Speaks</dc:title>
@@ -541,6 +554,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/incident-for-eric-walrond-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/incident-for-eric-walrond-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Incident (for Eric Walrond)</dc:title>
@@ -573,6 +587,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/two-who-crossed-a-line-she-crosses-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/two-who-crossed-a-line-she-crosses-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Two Who Crossed a Line (She Crosses)</dc:title>
@@ -613,6 +628,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/two-who-crossed-a-line-he-crosses-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/two-who-crossed-a-line-he-crosses-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Two Who Crossed a Line (He Crosses)</dc:title>
@@ -650,6 +666,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/saturdays-child-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/saturdays-child-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Saturday's Child</dc:title>
@@ -692,6 +709,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-dance-of-love-after-reading-ren-marans-batouala-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-dance-of-love-after-reading-ren-marans-batouala-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Dance of Love (After reading René Maran's 'Batouala')</dc:title>
@@ -728,6 +746,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/pagan-prayer-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/pagan-prayer-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Pagan Prayer</dc:title>
@@ -777,6 +796,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/wisdom-cometh-with-the-years-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/wisdom-cometh-with-the-years-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Wisdom Cometh With the Years</dc:title>
@@ -814,6 +834,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-my-fairer-brethren-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-my-fairer-brethren-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To My Fairer Brethren</dc:title>
@@ -846,6 +867,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fruit-of-the-flower-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fruit-of-the-flower-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fruit of the Flower</dc:title>
@@ -894,6 +916,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-shroud-of-color-for-llewellyn-ransom-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-shroud-of-color-for-llewellyn-ransom-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Shroud of Color (For Llewellyn Ransom)</dc:title>
@@ -1113,6 +1136,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/heritage-for-harold-jackman-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/heritage-for-harold-jackman-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Heritage</dc:title>
@@ -1262,6 +1286,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-poet-to-john-gaston-edgar-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-poet-to-john-gaston-edgar-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Poet (to John Gaston Edgar)</dc:title>
@@ -1290,6 +1315,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-my-grandmother-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-my-grandmother-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For My Grandmother</dc:title>
@@ -1314,6 +1340,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-cynic-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-cynic-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Cynic</dc:title>
@@ -1340,6 +1367,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-singer?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-singer?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Singer</dc:title>
@@ -1364,6 +1392,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-virgin?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-virgin?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Virgin</dc:title>
@@ -1388,6 +1417,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-lady-i-know-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-lady-i-know-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Lady I Know</dc:title>
@@ -1412,6 +1442,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-lovely-lady-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-lovely-lady-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Lovely Lady</dc:title>
@@ -1436,6 +1467,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-atheist-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-atheist-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For an Atheist</dc:title>
@@ -1459,6 +1491,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-anarchist-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-anarchist-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For an Anarchist</dc:title>
@@ -1482,6 +1515,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-magician-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-magician-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Magician</dc:title>
@@ -1505,6 +1539,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-pessimist-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-pessimist-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Pessimist</dc:title>
@@ -1528,6 +1563,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-mouthy-woman-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-mouthy-woman-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Mouthy Woman</dc:title>
@@ -1551,6 +1587,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-philosopher-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-philosopher-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Philosopher</dc:title>
@@ -1574,6 +1611,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-evolutionist-and-his-opponent-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-evolutionist-and-his-opponent-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For an Evolutionist and his Opponent</dc:title>
@@ -1597,6 +1635,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-unsuccessful-sinner-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-an-unsuccessful-sinner-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For an Unsuccessful Sinner</dc:title>
@@ -1620,6 +1659,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-fool-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-fool-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Fool</dc:title>
@@ -1643,6 +1683,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-one-who-gayly-sowed-his-oats-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-one-who-gayly-sowed-his-oats-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For One Who Gayly Sowed His Oats</dc:title>
@@ -1666,6 +1707,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-skeptic-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-skeptic-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Skeptic</dc:title>
@@ -1689,6 +1731,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-fatalist-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-fatalist-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Fatalist</dc:title>
@@ -1712,6 +1755,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-daughters-of-magdalen-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-daughters-of-magdalen-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For Daughters of Magdalen</dc:title>
@@ -1735,6 +1779,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-wanton-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-wanton-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Wanton</dc:title>
@@ -1758,6 +1803,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-preacher-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-a-preacher-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For a Preacher</dc:title>
@@ -1781,6 +1827,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-one-who-died-singing-of-death-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-one-who-died-singing-of-death-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For One Who Died Singing of Death</dc:title>
@@ -1804,6 +1851,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-john-keats-apostle-of-beauty-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-john-keats-apostle-of-beauty-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For John Keats, Apostle of Beauty</dc:title>
@@ -1827,6 +1875,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-hazel-hall-american-poet-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-hazel-hall-american-poet-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For Hazel Hall, American Poet</dc:title>
@@ -1850,6 +1899,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-paul-laurence-dunbar-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-paul-laurence-dunbar-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For Paul Laurence Dunbar</dc:title>
@@ -1873,6 +1923,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-joseph-conrad-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-joseph-conrad-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For Joseph Conrad</dc:title>
@@ -1898,6 +1949,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-myself-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/for-myself-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>For Myself</dc:title>
@@ -1921,6 +1973,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/all-the-dead-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/all-the-dead-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>All the Dead</dc:title>
@@ -1944,6 +1997,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/oh-for-a-little-while-be-kind-for-ruth-marie-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/oh-for-a-little-while-be-kind-for-ruth-marie-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Oh, for a Little While Be Kind (For Ruth Marie)</dc:title>
@@ -1977,6 +2031,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/if-you-should-go-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/if-you-should-go-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>If You Should Go</dc:title>
@@ -2004,6 +2059,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-one-who-said-me-nay-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-one-who-said-me-nay-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To One Who Said Me Nay</dc:title>
@@ -2042,6 +2098,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/advice-to-youth-for-guillaume-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/advice-to-youth-for-guillaume-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Advice to Youth (for Guillaume)</dc:title>
@@ -2069,6 +2126,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/caprice-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/caprice-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Caprice</dc:title>
@@ -2096,6 +2154,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sacrament-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sacrament-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sacrament</dc:title>
@@ -2123,6 +2182,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/bread-and-wine-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/bread-and-wine-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Bread and Wine</dc:title>
@@ -2152,6 +2212,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/spring-reminiscence-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/spring-reminiscence-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Spring Reminiscence</dc:title>
@@ -2183,6 +2244,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/suicide-chant-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/suicide-chant-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Suicide Chant</dc:title>
@@ -2225,6 +2287,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/she-of-the-dancing-feet-sings-to-ottie-graham-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/she-of-the-dancing-feet-sings-to-ottie-graham-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>She of the Dancing Feet Sings (To Ottie Graham)</dc:title>
@@ -2260,6 +2323,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/judas-iscariot-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/judas-iscariot-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Judas Iscariot</dc:title>
@@ -2375,6 +2439,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-wise-for-alain-locke-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-wise-for-alain-locke-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Wise (for Alain Locke)</dc:title>
@@ -2406,6 +2471,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mary-mother-of-christ-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mary-mother-of-christ-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Mary, Mother of Christ</dc:title>
@@ -2441,6 +2507,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/dialogue-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/dialogue-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Dialogue</dc:title>
@@ -2484,6 +2551,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/in-memory-of-col-charles-young?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/in-memory-of-col-charles-young?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>In Memory of Col. Charles Young</dc:title>
@@ -2521,6 +2589,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-my-friends-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-my-friends-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To My Friends</dc:title>
@@ -2554,6 +2623,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/gods-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/gods-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Gods</dc:title>
@@ -2585,6 +2655,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-john-keats-poet-at-spring-time--for-carl-van-vechten-spring-1924-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-john-keats-poet-at-spring-time--for-carl-van-vechten-spring-1924-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To John Keats, Poet. At Spring Time (For Carl Van Vechten)</dc:title>
@@ -2650,6 +2721,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/on-going-for-willard-johnson-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/on-going-for-willard-johnson-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>On Going (For Willard Johnson)</dc:title>
@@ -2681,6 +2753,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harsh-world-that-lashest-me-for-walter-white-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harsh-world-that-lashest-me-for-walter-white-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Harsh World That Lashest Me (For Walter White)</dc:title>
@@ -2732,6 +2805,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/requiescam-by-countee-cullen?path=color-by-countee-cullen-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/requiescam-by-countee-cullen?path=color-by-countee-cullen-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Requiescam</dc:title>
@@ -2757,6 +2831,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Weary Blues</dc:title>
@@ -2785,6 +2860,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/introducing-langston-hughes-to-the-reader-carl-van-vechten?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/introducing-langston-hughes-to-the-reader-carl-van-vechten?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Introducing Langston Hughes to the Reader</dc:title>
@@ -2805,6 +2881,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-proem-from-the-weary-blues?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-proem-from-the-weary-blues?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Proem" ["The Negro"]</dc:title>
@@ -2845,6 +2922,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-the-weary-blues?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-the-weary-blues?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Weary Blues</dc:title>
@@ -2902,6 +2980,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/jazzonia-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/jazzonia-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Jazzonia</dc:title>
@@ -2941,6 +3020,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/negro-dancers-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/negro-dancers-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Negro Dancers</dc:title>
@@ -2977,6 +3057,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-cat-and-the-saxophone-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-cat-and-the-saxophone-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Cat and the Saxophone</dc:title>
@@ -3029,6 +3110,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-singer-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-singer-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Young Singer</dc:title>
@@ -3058,6 +3140,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/cabaret-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/cabaret-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Cabaret</dc:title>
@@ -3085,6 +3168,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-midnight-nan-at-leroys-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-midnight-nan-at-leroys-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To Midnight Nan at Leroy's</dc:title>
@@ -3127,6 +3211,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-little-lover-lass-dead-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-little-lover-lass-dead-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To a Little Lover-Lass, Dead</dc:title>
@@ -3158,6 +3243,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-night-club-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-night-club-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Harlem Night Club</dc:title>
@@ -3198,6 +3284,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/nude-young-dancer-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/nude-young-dancer-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Nude Young Dancer</dc:title>
@@ -3225,6 +3312,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-prostitute-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-prostitute-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Young Prostitute</dc:title>
@@ -3251,6 +3339,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-black-dancer-in-the-little-savoy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-a-black-dancer-in-the-little-savoy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To a Black Dancer in 'The Little Savoy'</dc:title>
@@ -3280,6 +3369,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/song-for-a-banjo-dance-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/song-for-a-banjo-dance-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Song for a Banjo Dance</dc:title>
@@ -3328,6 +3418,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/blues-fantasy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/blues-fantasy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Blues Fantasy</dc:title>
@@ -3377,6 +3468,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lenox-avenue-midnight-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lenox-avenue-midnight-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lenox Avenue: Midnight</dc:title>
@@ -3410,6 +3502,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/dream-variation-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/dream-variation-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Dream Variation</dc:title>
@@ -3450,6 +3543,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/winter-moon-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/winter-moon-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Winter Moon</dc:title>
@@ -3474,6 +3568,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poeme-dautomne-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poeme-dautomne-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poeme d'Automne</dc:title>
@@ -3509,6 +3604,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fantasy-in-purple-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fantasy-in-purple-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fantasy in Purple</dc:title>
@@ -3538,6 +3634,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/march-moon-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/march-moon-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>March Moon</dc:title>
@@ -3567,6 +3664,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Joy</dc:title>
@@ -3597,6 +3695,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-negro-speaks-of-rivers-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-negro-speaks-of-rivers-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Negro Speaks of Rivers</dc:title>
@@ -3631,6 +3730,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/cross-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/cross-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Cross</dc:title>
@@ -3664,6 +3764,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-jester-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-jester-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Jester</dc:title>
@@ -3702,6 +3803,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-south-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-south-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The South</dc:title>
@@ -3749,6 +3851,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/as-i-grew-older-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/as-i-grew-older-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>As I Grew Older</dc:title>
@@ -3801,6 +3904,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aunt-sues-stories-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aunt-sues-stories-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Aunt Sue's Stories</dc:title>
@@ -3847,6 +3951,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-by-langston-hughes-the-night-is-beautiful?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-by-langston-hughes-the-night-is-beautiful?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poem ("The Night is Beautiful...")</dc:title>
@@ -3874,6 +3979,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-black-pierrot-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-black-pierrot-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Black Pierrot</dc:title>
@@ -3908,6 +4014,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-night-song-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-night-song-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Harlem Night Song</dc:title>
@@ -3943,6 +4050,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/songs-to-the-dark-virgin-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/songs-to-the-dark-virgin-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Songs to the Dark Virgin</dc:title>
@@ -3984,6 +4092,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ardella-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ardella-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Ardella</dc:title>
@@ -4009,6 +4118,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-to-the-black-beloved-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-to-the-black-beloved-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To the Black Beloved</dc:title>
@@ -4051,6 +4161,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/when-sue-wears-red-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/when-sue-wears-red-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>When Sue Wears Red</dc:title>
@@ -4085,6 +4196,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/pierrot-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/pierrot-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Pierrot</dc:title>
@@ -4134,6 +4246,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/water-front-streets-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/water-front-streets-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Water-Front Streets</dc:title>
@@ -4161,6 +4274,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-farewell-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/a-farewell-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Farewell</dc:title>
@@ -4188,6 +4302,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/long-trip-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/long-trip-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Long Trip</dc:title>
@@ -4217,6 +4332,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/seascape-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/seascape-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Seascape</dc:title>
@@ -4244,6 +4360,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/natcha-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/natcha-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Natcha</dc:title>
@@ -4270,6 +4387,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sea-charm-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sea-charm-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sea Charm</dc:title>
@@ -4302,6 +4420,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/death-of-an-old-seaman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/death-of-an-old-seaman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Death of an Old Seaman</dc:title>
@@ -4331,6 +4450,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/beggar-boy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/beggar-boy-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Beggar Boy</dc:title>
@@ -4358,6 +4478,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/troubled-woman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/troubled-woman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Troubled Woman</dc:title>
@@ -4389,6 +4510,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/port-town-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/port-town-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Port Town</dc:title>
@@ -4424,6 +4546,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sea-calm-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sea-calm-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sea Calm</dc:title>
@@ -4449,6 +4572,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/caribbean-sunset-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/caribbean-sunset-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Caribbean Sunset</dc:title>
@@ -4472,6 +4596,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-sailor-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-sailor-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Young Sailor</dc:title>
@@ -4513,6 +4638,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sick-room-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sick-room-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sick Room</dc:title>
@@ -4538,6 +4664,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/suicide-note-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/suicide-note-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Suicide's Note</dc:title>
@@ -4560,6 +4687,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/soledad-a-cuban-portrait-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/soledad-a-cuban-portrait-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Soledad: A Cuban Portrait</dc:title>
@@ -4589,6 +4717,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mexican-market-woman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mexican-market-woman-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Mexican Market Woman</dc:title>
@@ -4615,6 +4744,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/after-many-springs-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/after-many-springs-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>After Many Springs</dc:title>
@@ -4642,6 +4772,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-bride-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/young-bride-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Young Bride</dc:title>
@@ -4670,6 +4801,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-dream-keeper-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-dream-keeper-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Dream Keeper</dc:title>
@@ -4699,6 +4831,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-to-fs-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-to-fs-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poem (To F.S.)</dc:title>
@@ -4725,6 +4858,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/our-land-poem-for-a-decorative-panel-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/our-land-poem-for-a-decorative-panel-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Our Land (Poem for a Decorative Panel)</dc:title>
@@ -4767,6 +4901,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-the-dark-mercedes-of-el-palacio-de-amor-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-the-dark-mercedes-of-el-palacio-de-amor-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To the Dark Mercedes of 'El Palacio de Amor'</dc:title>
@@ -4794,6 +4929,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lament-for-dark-peoples-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lament-for-dark-peoples-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lament for Dark Peoples</dc:title>
@@ -4827,6 +4963,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/afraid-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/afraid-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Afraid</dc:title>
@@ -4852,6 +4989,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-for-the-portrait-of-an-african-boy-after-the-manner-of-gauguin-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-for-the-portrait-of-an-african-boy-after-the-manner-of-gauguin-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poem: For the portrait of an African boy after the manner of Gauguin</dc:title>
@@ -4879,6 +5017,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/summer-night-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/summer-night-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Summer Night</dc:title>
@@ -4925,6 +5064,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-we-have-tomorrow-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/poem-we-have-tomorrow-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poem ["We Have Tomorrow..."]</dc:title>
@@ -4966,6 +5106,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mother-to-son-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mother-to-son-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Mother to Son</dc:title>
@@ -5007,6 +5148,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-white-ones-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-white-ones-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The White Ones</dc:title>
@@ -5035,6 +5177,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/danse-africaine-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/danse-africaine-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Danse Africaine</dc:title>
@@ -5069,6 +5212,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/disillusion-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/disillusion-by-langston-hughes?path=the-weary-blues-by-langston-hughes-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Disillusion</dc:title>

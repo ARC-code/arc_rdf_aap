@@ -7,6 +7,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:role="http://www.loc.gov/loc.terms/relators/">
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-moses-a-story-of-the-nile-1870">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-moses-a-story-of-the-nile-1870"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Moses: A Story of the Nile</dc:title>
@@ -1139,7 +1140,9 @@ THE MISSION OF THE FLOWERS.
         <role:AUT>Frances E.W. Harper</role:AUT>
         <dc:language>eng</dc:language>
     </aap:artifact>
-    <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-1871">
+    <aap:artifact rdf:about="(.*)">
+	<rdfs:seeAlso rdf:resource="(.*)"/>
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-1871"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -2193,6 +2196,7 @@ We heard ʼmid our night of tears.
     <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/islay-walden-waldens-miscellaneous-poems-full-text-1873">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/islay-walden-waldens-miscellaneous-poems-full-text-1873"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Walden's Miscellaneous Poems</dc:title>
@@ -4583,6 +4587,7 @@ ISLAY WALDEN.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ada-isaacs-menken-infelicia-full-text-1873">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ada-isaacs-menken-infelicia-full-text-1873"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Infelicia</dc:title>
@@ -6582,6 +6587,7 @@ An exile lingering here.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alberry-a-whitman-not-a-man-yet-a-man-full-text-1877">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alberry-a-whitman-not-a-man-yet-a-man-full-text-1877"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Not a Man, Yet a Man</dc:title>
@@ -12695,6 +12701,7 @@ But covers thus his own.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/henry-mcneal-turner-the-conflict-for-civil-rights-a-poem-1881">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/henry-mcneal-turner-the-conflict-for-civil-rights-a-poem-1881"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Conflict for Civil Rights: a Poem</dc:title>
@@ -13091,6 +13098,7 @@ And shout 'mid earth's ruins that Time is no more.”
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/josephine-heard-morning-glories-full-text-1">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/josephine-heard-morning-glories-full-text-1"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Morning Glories</dc:title>
@@ -15521,6 +15529,7 @@ But Mary-like, "She hath done what she could."
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-sketches-of-southern-life-full-text-1891">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-sketches-of-southern-life-full-text-1891"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sketches of Southern Life</dc:title>
@@ -16542,6 +16551,7 @@ And by the help of grace divine
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-oak-and-ivy-full-text-1893">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-oak-and-ivy-full-text-1893"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Oak and Ivy</dc:title>
@@ -18394,6 +18404,7 @@ Why should a man be singing?
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/h-cordelia-ray-sonnets-1893">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/h-cordelia-ray-sonnets-1893"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sonnets</dc:title>
@@ -18635,6 +18646,7 @@ Why should a man be singing?
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mrs-nf-mossell-the-work-of-the-afro-american-woman-full-text-1894">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mrs-nf-mossell-the-work-of-the-afro-american-woman-full-text-1894"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Work of the Afro-American Woman</dc:title>
@@ -20200,6 +20212,7 @@ Princeton, N.J.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-majors-and-minors-full-text-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-majors-and-minors-full-text-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Majors and Minors</dc:title>
@@ -22824,6 +22837,7 @@ Ez Malindy sings.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-atlanta-offering-poems-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-atlanta-offering-poems-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Atlanta Offering: Poems</dc:title>
@@ -24305,6 +24319,7 @@ Girdle the world with peace.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-poems-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-poems-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -26389,6 +26404,7 @@ With blended sounds of a life well spent.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-poems-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-poems-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -27026,6 +27042,7 @@ Soon my friend tired and we sat down un¬ der the shade of a great chestnut. Lon
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/daniel-webster-davis-idle-moments-containing-emancipation-and-other-poems-full-text-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/daniel-webster-davis-idle-moments-containing-emancipation-and-other-poems-full-text-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Idle Moments: Containing Emancipation and Other Poems</dc:title>
@@ -28653,6 +28670,7 @@ THE END
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-edwin-campbell-echoes-from-the-cabin-and-elsewhere-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-edwin-campbell-echoes-from-the-cabin-and-elsewhere-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Echoes--From the Cabin and Elsewhere</dc:title>
@@ -30381,6 +30399,7 @@ While our bodies are but clods 1"
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-full-text-1895">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-poems-full-text-1895"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -32371,6 +32390,7 @@ George S. Ferguson Co: Printers and Electrotypes
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-lyrics-of-lowly-life-full-text-1896">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-lyrics-of-lowly-life-full-text-1896"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of Lowly Life</dc:title>
@@ -35171,6 +35191,7 @@ Ez Malindy sings.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mary-weston-fordham-magnolia-leaves-full-text-1897-preface-by-booker-t-washington">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/mary-weston-fordham-magnolia-leaves-full-text-1897-preface-by-booker-t-washington"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Magnolia Leaves</dc:title>
@@ -37453,6 +37474,7 @@ name was a household word. So then,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frank-b-coffin-coffins-poems-with-ajax-ordeals-full-text-1897">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frank-b-coffin-coffins-poems-with-ajax-ordeals-full-text-1897"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Coffin's Poems with Ajax' Ordeals</dc:title>
@@ -45832,6 +45854,7 @@ spirit, () spirit of the other land.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-sr-links-of-friendship-1898">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-sr-links-of-friendship-1898"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Links of Friendship</dc:title>
@@ -48413,6 +48436,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bushbanks-original-poems-full-text-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bushbanks-original-poems-full-text-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Original Poems</dc:title>
@@ -48445,6 +48469,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-morning-on-shinnecock-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-morning-on-shinnecock-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Morning on Shinnecock</dc:title>
@@ -48489,6 +48514,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-treasured-moments-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-treasured-moments-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Treasured Moments</dc:title>
@@ -48557,6 +48583,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-at-harvest-time-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-at-harvest-time-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>At Harvest Time</dc:title>
@@ -48609,6 +48636,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-a-hero-of-san-juan-hill-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-a-hero-of-san-juan-hill-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Hero of San Juan [Hill]</dc:title>
@@ -48677,6 +48705,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-crispus-attucks-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-crispus-attucks-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Crispus Attucks</dc:title>
@@ -48745,6 +48774,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-honors-appeal-to-justice-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-honors-appeal-to-justice-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Honor's Appeal to Justice</dc:title>
@@ -48812,6 +48842,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-the-walk-to-emmaus-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-the-walk-to-emmaus-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Walk to Emmaus</dc:title>
@@ -48876,6 +48907,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-my-dream-of-the-new-year-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-my-dream-of-the-new-year-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>My Dream of the New Year</dc:title>
@@ -48976,6 +49008,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-drifting-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-drifting-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Drifting</dc:title>
@@ -49017,6 +49050,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-voices-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-voices-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Voices</dc:title>
@@ -49061,6 +49095,7 @@ Links of Friendship
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aaron-belford-thompson-morning-songs-full-text-1899">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aaron-belford-thompson-morning-songs-full-text-1899"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Morning Songs</dc:title>
@@ -50442,6 +50477,7 @@ Work, to seek sweet heavenly beauty;
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/priscilla-jane-thompson-ethiope-lays-1900-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/priscilla-jane-thompson-ethiope-lays-1900-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Ethiope Lays</dc:title>
@@ -52231,6 +52267,7 @@ Thinkst thou, that in His justice, great,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-t-franklin-jessamine-poems-1900">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-t-franklin-jessamine-poems-1900"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Jessamine Poems</dc:title>
@@ -53340,6 +53377,7 @@ And coiled its sombre glory round
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-ephraim-mcgirt-avenging-the-maine-a-drunken-ab-and-other-poems-1900">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-ephraim-mcgirt-avenging-the-maine-a-drunken-ab-and-other-poems-1900"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Avenging the Maine, A Drunken A.B., and Other Poems</dc:title>

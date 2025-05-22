@@ -7,6 +7,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:role="http://www.loc.gov/loc.terms/relators/">
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-madison-bell-poetical-works-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-madison-bell-poetical-works-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poetical Works</dc:title>
@@ -5905,6 +5906,7 @@ Valedictory — on leaving San Francisco, Cal.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/albery-a-whitman-an-idyl-of-the-south-full-text-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/albery-a-whitman-an-idyl-of-the-south-full-text-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>An Idyl of the South</dc:title>
@@ -8131,6 +8133,7 @@ PART II.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-idylls-of-the-bible-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-idylls-of-the-bible-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Idylls of the Bible</dc:title>
@@ -9688,6 +9691,7 @@ And we who lately stood redeemed
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/richard-es-toomey-thoughts-for-true-americans-full-text-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/richard-es-toomey-thoughts-for-true-americans-full-text-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Thoughts for True Americans</dc:title>
@@ -11454,6 +11458,7 @@ This fact, long unknown, raised the young lad's ire;
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aaron-belford-thompson-echoes-of-spring-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/aaron-belford-thompson-echoes-of-spring-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Echoes of Spring</dc:title>
@@ -13004,6 +13009,7 @@ CONTENTS
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-lyrics-of-love-and-laughter-full-text-1902">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-lyrics-of-love-and-laughter-full-text-1902"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of Love and Laughter</dc:title>
@@ -15896,6 +15902,7 @@ NIGHT, DIM NIGHT
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/katherine-d-tillman-recitations-full-text-1902">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/katherine-d-tillman-recitations-full-text-1902"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Recitations</dc:title>
@@ -17440,6 +17447,7 @@ for our price list.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-stanley-braithwaite-lyrics-of-love-and-life-full-text-1904">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-stanley-braithwaite-lyrics-of-love-and-life-full-text-1904"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of Love and Life</dc:title>
@@ -18521,6 +18529,7 @@ The everlasting hills.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ht-johnson-wings-of-ebony-1904">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/ht-johnson-wings-of-ebony-1904"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Wings of Ebony</dc:title>
@@ -19489,6 +19498,7 @@ Long may thy courage weakness spurn.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charles-r-dinkins-lyrics-of-love-full-text-1904">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charles-r-dinkins-lyrics-of-love-full-text-1904"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of Love</dc:title>
@@ -24996,6 +25006,7 @@ i94
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/benjamin-griffith-brawley-the-problem-and-other-poems-1905-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/benjamin-griffith-brawley-the-problem-and-other-poems-1905-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Problem And Other Poems</dc:title>
@@ -25457,6 +25468,7 @@ I believe in the kinship of the universe, in the providence of Providence, in th
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/timothy-thomas-fortune-dreams-of-life-miscellaneous-poems-full-text-1905">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/timothy-thomas-fortune-dreams-of-life-miscellaneous-poems-full-text-1905"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Dreams of Life: Miscellaneous Poems</dc:title>
@@ -30585,6 +30597,7 @@ The End.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/robert-e-ford-brown-chapel-a-story-in-verse-full-text-1905">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/robert-e-ford-brown-chapel-a-story-in-verse-full-text-1905"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Brown Chapel, A Story in Verse</dc:title>
@@ -40402,6 +40415,7 @@ CHRISTMAS EVE SURPRISE PARTY. 307
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/julius-c-wright-poetic-diamonds-full-text-1906">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/julius-c-wright-poetic-diamonds-full-text-1906"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poetic Diamonds</dc:title>
@@ -42273,6 +42287,7 @@ Contents.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lucian-b-watkins-voices-of-solitude-full-text-1907">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lucian-b-watkins-voices-of-solitude-full-text-1907"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Voices of Solitude</dc:title>
@@ -44459,6 +44474,7 @@ From sorrowed past — our future hope, THE
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lizelia-a-j-moorer-prejudice-unveiled-and-other-poems-1907">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/lizelia-a-j-moorer-prejudice-unveiled-and-other-poems-1907"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Prejudice Unveiled, and Other Poems</dc:title>
@@ -46779,6 +46795,7 @@ Thankful to Him who gave it all.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/elliott-blaine-henderson-the-soliloquy-of-satan-and-other-poems-1907-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/elliott-blaine-henderson-the-soliloquy-of-satan-and-other-poems-1907-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Soliloquy of Satan: and Other Poems</dc:title>
@@ -47857,6 +47874,7 @@ Wooden' change whut Ise dun say."
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charlotte-e-linden-scraps-of-time-full-text-1907--1913">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charlotte-e-linden-scraps-of-time-full-text-1907--1913"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Scraps of Time</dc:title>
@@ -49108,6 +49126,7 @@ GOLDEN JUBILEE OF WILBERFORCE.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/priscilla-jane-thompson-gleanings-of-quiet-hours-full-text-1907">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/priscilla-jane-thompson-gleanings-of-quiet-hours-full-text-1907"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Gleanings of Quiet Hours</dc:title>
@@ -51156,6 +51175,7 @@ And through it comes the glad New Year.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-stanley-braithwaite-house-of-falling-leaves-full-text-1908">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-stanley-braithwaite-house-of-falling-leaves-full-text-1908"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>House of Falling Leaves</dc:title>
@@ -52778,6 +52798,7 @@ And with it the great gift of song!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/clara-ann-thompson-songs-from-the-wayside-full-text-1908">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/clara-ann-thompson-songs-from-the-wayside-full-text-1908"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Songs from the Wayside</dc:title>
@@ -53344,6 +53365,7 @@ Whethah folks like it or no.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charles-frederick-white-plea-of-the-negro-soldier-and-a-hundred-other-poems-full-text-1908">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charles-frederick-white-plea-of-the-negro-soldier-and-a-hundred-other-poems-full-text-1908"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Plea of the Negro Soldier: and a Hundred Other Poems</dc:title>
@@ -56915,6 +56937,7 @@ May, 1908.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-everette-hawkins-chords-and-discords-full-text-1909">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-everette-hawkins-chords-and-discords-full-text-1909"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Chords and Discords</dc:title>
@@ -58773,6 +58796,7 @@ If cruel Fate should bruise thee,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-sr-a-white-song-and-a-black-one-1909-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-sr-a-white-song-and-a-black-one-1909-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A White Song and a Black One</dc:title>
@@ -60368,6 +60392,7 @@ Let us hide heah in dese weeds.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/elliott-blaine-henderson-humble-folks-full-text-1909">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/elliott-blaine-henderson-humble-folks-full-text-1909"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Humble Folks</dc:title>
@@ -62034,6 +62059,7 @@ We'll tromp out an' see de wheat.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/effie-waller-smith-rosemary-and-pansies-full-text-1909">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/effie-waller-smith-rosemary-and-pansies-full-text-1909"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Rosemary and Pansies</dc:title>
@@ -62902,6 +62928,7 @@ GOOD NIGHT
         <dc:language>eng</dc:language>
     </aap:artifact>  
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/maggie-pogue-johnson-virginia-dreams-full-text-1910">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/maggie-pogue-johnson-virginia-dreams-full-text-1910"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Virginia Dreams</dc:title>
@@ -64976,6 +65003,7 @@ He'll add many stars to your crown.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/h-cordelia-ray-poems-full-text-1910">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/h-cordelia-ray-poems-full-text-1910"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -69651,6 +69679,7 @@ The world shall echo with Our Lincoln's name.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/christina-moody-a-tiny-spark-full-text-1910">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/christina-moody-a-tiny-spark-full-text-1910"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Tiny Spark</dc:title>
