@@ -7,6 +7,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:role="http://www.loc.gov/loc.terms/relators/">
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Race Rhymes</dc:title>
@@ -36,6 +37,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-to-my-mother-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-to-my-mother-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To My Mother</dc:title>
@@ -75,6 +77,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-preface-to-race-rhymes-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-preface-to-race-rhymes-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Preface to Race Rhymes</dc:title>
@@ -98,6 +101,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-america-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-america-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>America</dc:title>
@@ -160,6 +164,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-a-reply-to-thomas-dixon-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-a-reply-to-thomas-dixon-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Reply to Thomas Dixon</dc:title>
@@ -214,6 +219,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-atlantas-shame-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-atlantas-shame-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Atlanta's Shame</dc:title>
@@ -268,6 +274,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-shall-we-fight-the-jim-crow-car-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-shall-we-fight-the-jim-crow-car-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Shall We Fight The Jim Crow Car?</dc:title>
@@ -318,6 +325,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-singer-and-the-song-to-paul-laurence-dunbar-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-singer-and-the-song-to-paul-laurence-dunbar-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Singer and the Song (To Paul Laurence Dunbar)</dc:title>
@@ -362,6 +370,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-lines-to-garrison-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-lines-to-garrison-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lines to Garrison</dc:title>
@@ -458,6 +467,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-foraker-and-the-twenty-fifth-1?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-foraker-and-the-twenty-fifth-1?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Foraker and the Twenty-Fifth</dc:title>
@@ -543,6 +553,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-all-hail-ye-colored-graduates-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-all-hail-ye-colored-graduates-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>All Hail! Ye Colored Graduates</dc:title>
@@ -595,6 +606,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-dutys-call-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-dutys-call-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Duty's Call</dc:title>
@@ -639,6 +651,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-marching-to-conquest-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-marching-to-conquest-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Marching to Conquest</dc:title>
@@ -684,6 +697,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-my-baby-on-reading-souls-of-black-folk-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-my-baby-on-reading-souls-of-black-folk-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>My Baby (On Reading 'Souls of Black Folk')</dc:title>
@@ -736,6 +750,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-character-or-color--which-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-character-or-color--which-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Character or Color--Which?</dc:title>
@@ -784,6 +799,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-dreamers-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-dreamers-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Dreamers</dc:title>
@@ -890,6 +906,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-well-die-for-liberty-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-well-die-for-liberty-1911?path=carrie-williams-clifford-race-rhymes-1911-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>We'll Die For Liberty</dc:title>
@@ -933,6 +950,7 @@
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/edward-smyth-jones-the-sylvan-cabin-full-text-1911">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/edward-smyth-jones-the-sylvan-cabin-full-text-1911"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Sylvan Cabin</dc:title>
@@ -2496,6 +2514,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Constab Ballads</dc:title>
@@ -2550,6 +2569,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-authors-preface-constab-ballads-2012?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-authors-preface-constab-ballads-2012?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Author's Preface</dc:title>
@@ -2574,6 +2594,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-route-march-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-route-march-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>De Route March</dc:title>
@@ -2621,6 +2642,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-flat-foot-drill-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-flat-foot-drill-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Flat-Foot Drill</dc:title>
@@ -2666,6 +2688,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bennies-departure-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bennies-departure-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Bennie's Departure</dc:title>
@@ -2920,6 +2943,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-consolation-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-consolation-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Consolation</dc:title>
@@ -3014,6 +3038,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-fire-practice-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-fire-practice-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fire Practice</dc:title>
@@ -3070,6 +3095,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-second-class-constable-alston-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-second-class-constable-alston-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Second-Class Constable Alston</dc:title>
@@ -3119,6 +3145,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-last-words-of-the-dying-recruit-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-last-words-of-the-dying-recruit-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Last Words of the Dying Recruit</dc:title>
@@ -3203,6 +3230,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bound-fe-duty-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bound-fe-duty-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Bound Fe Duty</dc:title>
@@ -3246,6 +3274,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bumming-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-bumming-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Bumming</dc:title>
@@ -3325,6 +3354,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-dog-drivers-frien-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-dog-drivers-frien-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>De Dog-Driver's Frien</dc:title>
@@ -3391,6 +3421,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-inspector-we-clark-on-his-return-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-inspector-we-clark-on-his-return-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To Inspector W.E. Clark (On his Return)</dc:title>
@@ -3430,6 +3461,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-papine-corner-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-papine-corner-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Papine Corner</dc:title>
@@ -3538,6 +3570,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-disillusioned-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-disillusioned-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Disillusioned</dc:title>
@@ -3617,6 +3650,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-cotch-donkey-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-cotch-donkey-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Cotch Donkey</dc:title>
@@ -3684,6 +3718,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-me-whoppin-big-tree-boy-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-me-whoppin-big-tree-boy-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Me Whoppin' Big-Tree Boy</dc:title>
@@ -3737,6 +3772,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-recruit-on-the-corpy-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-recruit-on-the-corpy-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Recruit on the Corpy</dc:title>
@@ -3786,6 +3822,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-pay-day-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-pay-day-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Pay-Day</dc:title>
@@ -3926,6 +3963,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-apple-womans-complaint-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-apple-womans-complaint-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Apple-Woman's Complaint</dc:title>
@@ -3995,6 +4033,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-knutsford-park-races-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-knutsford-park-races-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Knutsford Park Races</dc:title>
@@ -4088,6 +4127,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-heart-of-a-constab-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-heart-of-a-constab-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Heart of a Constab</dc:title>
@@ -4147,6 +4187,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-fe-me-sal-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-fe-me-sal-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fe Me Sal</dc:title>
@@ -4210,6 +4251,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-bobby-to-the-sneering-lady-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-bobby-to-the-sneering-lady-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Bobby to the Sneering Lady</dc:title>
@@ -4287,6 +4329,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-malingerer-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-malingerer-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Malingerer</dc:title>
@@ -4340,6 +4383,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-labourers-life-give-me-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-labourers-life-give-me-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Labourer's Life Give Me</dc:title>
@@ -4405,6 +4449,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-free-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-free-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Free</dc:title>
@@ -4434,6 +4479,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-comrades-four-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-comrades-four-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Comrades Four</dc:title>
@@ -4481,6 +4527,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-wgg-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-wgg-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To W.G.G.</dc:title>
@@ -4544,6 +4591,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-sukee-river-1912-version?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-sukee-river-1912-version?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sukee River</dc:title>
@@ -4649,6 +4697,7 @@ A place of rest-the journey's end!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-glossary-to-constab-ballads-1912?path=claude-mckay-constab-ballads-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-glossary-to-constab-ballads-1912?path=claude-mckay-constab-ballads-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Glossary to 'Constab Ballads'</dc:title>
@@ -5049,6 +5098,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Songs of Jamaica</dc:title>
@@ -5069,6 +5119,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-jekyll-preface-to-songs-of-jamaica-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-jekyll-preface-to-songs-of-jamaica-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Preface to 'Songs of Jamaica'</dc:title>
@@ -5108,6 +5159,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-quashie-to-buccra-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-quashie-to-buccra-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Quashie to Buccra</dc:title>
@@ -5157,6 +5209,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-me-bannabees-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-me-bannabees-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Me Bannabees</dc:title>
@@ -5218,6 +5271,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-lub-o-mine-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-lub-o-mine-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lub O' Mine</dc:title>
@@ -5270,6 +5324,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-taken-aback-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-taken-aback-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Taken Aback</dc:title>
@@ -5310,6 +5365,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-little-jim-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-little-jim-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Little Jim</dc:title>
@@ -5358,6 +5414,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-jim-at-sixteen-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-jim-at-sixteen-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Jim at Sixteen</dc:title>
@@ -5434,6 +5491,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-whe-fe-do-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-whe-fe-do-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Whe' Fe Do?</dc:title>
@@ -5518,6 +5576,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-king-banana-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-king-banana-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>King Banana</dc:title>
@@ -5574,6 +5633,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-pleading-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-pleading-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Pleading</dc:title>
@@ -5678,6 +5738,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-biter-bit-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-biter-bit-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Biter Bit</dc:title>
@@ -5731,6 +5792,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-out-of-debt-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-out-of-debt-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Out of Debt</dc:title>
@@ -5799,6 +5861,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-hermit-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-hermit-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Hermit</dc:title>
@@ -5835,6 +5898,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-school-teacher-nells-lub-letter-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-school-teacher-nells-lub-letter-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>School-Teacher Nell's Lub-Letter</dc:title>
@@ -5887,6 +5951,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-nellie-white-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-nellie-white-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Nellie White</dc:title>
@@ -5931,6 +5996,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-retribution-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-retribution-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Retribution</dc:title>
@@ -5975,6 +6041,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-eme-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-eme-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To E.M.E.</dc:title>
@@ -6037,6 +6104,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-hard-times-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-hard-times-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Hard Times</dc:title>
@@ -6083,6 +6151,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-cudjoe-fresh-from-de-lecture-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-cudjoe-fresh-from-de-lecture-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Cudjoe Fresh From De Lecture</dc:title>
@@ -6155,6 +6224,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-days-dat-are-gone-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-de-days-dat-are-gone-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>De Days Dat Are Gone</dc:title>
@@ -6207,6 +6277,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-reveille-sounin-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-reveille-sounin-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Reveille Soun'in</dc:title>
@@ -6251,6 +6322,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-old-england-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-old-england-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Old England</dc:title>
@@ -6299,6 +6371,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-dat-dirty-rum-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-dat-dirty-rum-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Dat Dirty Rum</dc:title>
@@ -6367,6 +6440,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-heart-stirrings-1912?path=claude-mckay-songs-of-jamaica-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-heart-stirrings-1912?path=claude-mckay-songs-of-jamaica-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Heart-Stirrings</dc:title>
@@ -6445,6 +6519,7 @@ you sick : you are sick.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sa-beadle-lyrics-of-the-under-world-full-text-1912">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sa-beadle-lyrics-of-the-under-world-full-text-1912"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of the Under World</dc:title>
@@ -8820,6 +8895,7 @@ CORRECTIONS
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fenton-johnson-a-little-dreaming-full-text-1913">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fenton-johnson-a-little-dreaming-full-text-1913"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Little Dreaming</dc:title>
@@ -10497,6 +10573,7 @@ THE SINGER.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-driftwood-full-text-1914">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/olivia-ward-bush-banks-driftwood-full-text-1914"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Driftwood</dc:title>
@@ -11657,6 +11734,7 @@ Sleep within the silent grave.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/maurice-n-corbett-the-harp-of-ethiopia-1914">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/maurice-n-corbett-the-harp-of-ethiopia-1914"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Harp of Ethiopia</dc:title>
@@ -18315,6 +18393,7 @@ Finis…26
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/full-text-collection-books-of-poetry-published-by-african-american-poets-1870-1926">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/full-text-collection-books-of-poetry-published-by-african-american-poets-1870-1926"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Ebon Muse</dc:title>
@@ -18912,6 +18991,7 @@ MY amber dove,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/wellington-adams-lyrics-of-an-humble-birth-full-text-1914">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/wellington-adams-lyrics-of-an-humble-birth-full-text-1914"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Lyrics of an Humble Birth</dc:title>
@@ -19954,6 +20034,7 @@ Flowers, they blossom and w'ther and die,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fenton-johnson-visions-of-the-dusk-full-text-1915">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/fenton-johnson-visions-of-the-dusk-full-text-1915"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Visions of the Dusk</dc:title>
@@ -21772,6 +21853,7 @@ It lives... it lives beyond the years."
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/adolphus-johnson-the-silver-chord--poems-full-text-1915">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/adolphus-johnson-the-silver-chord--poems-full-text-1915"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Silver Chord--Poems</dc:title>
@@ -22821,6 +22903,7 @@ If I were Judge, this sentence I always should say,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/myra-viola-wilds-thoughts-of-idle-hours-full-text-1915">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/myra-viola-wilds-thoughts-of-idle-hours-full-text-1915"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Thoughts of Idle Hours</dc:title>
@@ -24145,6 +24228,7 @@ That coon is wise as you and me;
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-the-path-of-dreams-full-text-1916">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/george-marion-mcclellan-the-path-of-dreams-full-text-1916"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Path of Dreams</dc:title>
@@ -25903,6 +25987,7 @@ THE PATH OF DREAMS
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fifty Years and Other Poems</dc:title>
@@ -26440,6 +26525,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/brander-matthews-preface-to-fifty-years-and-other-poems-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/brander-matthews-preface-to-fifty-years-and-other-poems-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Preface to "Fifty Years and Other Poems"</dc:title>
@@ -26467,6 +26553,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fifty-years-1913?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fifty-years-1913?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fifty Years</dc:title>
@@ -26594,6 +26681,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-to-america-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-to-america-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To America</dc:title>
@@ -26622,6 +26710,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-o-black-and-unknown-bards-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-o-black-and-unknown-bards-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>O Black and Unknown Bards</dc:title>
@@ -26692,6 +26781,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-o-southland-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-o-southland-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>O Southland!</dc:title>
@@ -26743,6 +26833,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-to-horace-bumstead-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-to-horace-bumstead-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To Horace Bumstead</dc:title>
@@ -26778,6 +26869,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-color-sergeant-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-color-sergeant-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Color Sergeant</dc:title>
@@ -26820,6 +26912,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-black-mammy-1915?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-black-mammy-1915?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Black Mammy</dc:title>
@@ -26856,6 +26949,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-father-father-abraham-1913?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-father-father-abraham-1913?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Father, Father Abraham</dc:title>
@@ -26894,6 +26988,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-brothers-1916?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-brothers-1916?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Brothers</dc:title>
@@ -26985,6 +27080,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fragment-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-fragment-1917?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fragment</dc:title>
@@ -27042,6 +27138,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-white-witch-1915?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-white-witch-1915?path=james-weldon-johnson-fifty-years-and-other-poems-1917-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The White Witch</dc:title>
@@ -27133,6 +27230,7 @@ THE REWARD
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/raymond-garfield-dandridge-penciled-poems-full-text-1917">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/raymond-garfield-dandridge-penciled-poems-full-text-1917"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Penciled Poems</dc:title>
@@ -28864,6 +28962,7 @@ INDEX
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-the-heart-of-a-woman-full-text-1918">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-the-heart-of-a-woman-full-text-1918"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Heart of a Woman</dc:title>
@@ -29420,6 +29519,7 @@ But nevermore the May!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/waverley-turner-carmichael-from-the-heart-of-a-folk-full-text-1918">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/waverley-turner-carmichael-from-the-heart-of-a-folk-full-text-1918"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>From the Heart of a Folk</dc:title>
@@ -30788,6 +30888,7 @@ That peace may come to man.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-jr-band-of-gideon-and-other-poems-full-text-1918">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joseph-s-cotter-jr-band-of-gideon-and-other-poems-full-text-1918"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Band of Gideon: and Other Poems</dc:title>
@@ -31262,6 +31363,7 @@ The song was made.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/roscoe-jamison-negro-soldiers-and-other-poems-1918">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/roscoe-jamison-negro-soldiers-and-other-poems-1918"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Negro Soldiers and Other Poems</dc:title>
@@ -31634,6 +31736,7 @@ FINIS
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/theodore-henry-shackelford-my-country-and-other-poems-1918-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/theodore-henry-shackelford-my-country-and-other-poems-1918-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>My Country, and Other Poems</dc:title>
@@ -41559,6 +41662,7 @@ CONTENTS. Page
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-e-seward-negroes-call-to-the-colors-and-soldiers-camp-life-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-e-seward-negroes-call-to-the-colors-and-soldiers-camp-life-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Negroes Call to the Colors and Soldiers Camp-Life</dc:title>
@@ -44125,6 +44229,7 @@ Jess ter natu'ly hit de grit.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/chester-westfield-the-experiences-of-company-l-368th-infantry-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/chester-westfield-the-experiences-of-company-l-368th-infantry-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Experiences of Company L 368th Infantry</dc:title>
@@ -44484,6 +44589,7 @@ To the land of the true and the brave!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joshua-henry-jones-jr-the-heart-of-the-world-full-text-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joshua-henry-jones-jr-the-heart-of-the-world-full-text-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Heart of the World</dc:title>
@@ -46689,6 +46795,7 @@ Gone West. Their struggles are o'er.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/peters-sisters-war-poems-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/peters-sisters-war-poems-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>War Poems</dc:title>
@@ -49526,6 +49633,7 @@ V.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/john-wesley-holloway-from-the-desert-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/john-wesley-holloway-from-the-desert-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>From the Desert</dc:title>
@@ -52255,6 +52363,7 @@ THE END
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sarah-lee-brown-fleming-clouds-and-sunshine-full-text-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sarah-lee-brown-fleming-clouds-and-sunshine-full-text-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Clouds and Sunshine</dc:title>
@@ -53257,6 +53366,7 @@ Chorus: Way down upon the, etc.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/raymond-garfield-dandridge-the-poet-and-other-poems-full-text-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/raymond-garfield-dandridge-the-poet-and-other-poems-full-text-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Poet and Other Poems</dc:title>
@@ -54433,6 +54543,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-spring-in-new-hampshire-1920-uk-only">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-spring-in-new-hampshire-1920-uk-only"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title></dc:title>
@@ -54453,6 +54564,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/spring-in-new-hampshire-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/spring-in-new-hampshire-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Spring in New Hampshire</dc:title>
@@ -54486,6 +54598,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-spanish-needle-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-spanish-needle-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Spanish Needle</dc:title>
@@ -54530,6 +54643,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-lynching-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-lynching-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Lynching</dc:title>
@@ -54565,6 +54679,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-oea-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-oea-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To O.E.A.</dc:title>
@@ -54600,6 +54715,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alfonso-dressing-to-wait-at-table">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alfonso-dressing-to-wait-at-table"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Alfonso, Dressing to Wait at Table</dc:title>
@@ -54635,6 +54751,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-flowers-of-passion-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-flowers-of-passion-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Flowers of Passion</dc:title>
@@ -54674,6 +54791,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-work-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-to-work-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To Work</dc:title>
@@ -54709,6 +54827,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/morning-joy-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/morning-joy-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Morning Joy</dc:title>
@@ -54746,6 +54865,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-reminiscences-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-reminiscences-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Reminiscences</dc:title>
@@ -54789,6 +54909,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/on-broadway-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/on-broadway-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>On Broadway</dc:title>
@@ -54824,6 +54945,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-love-song-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-love-song-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Love Song</dc:title>
@@ -54860,6 +54982,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/north-and-south-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/north-and-south-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>North and South</dc:title>
@@ -54898,6 +55021,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-rest-in-peace-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-rest-in-peace-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Rest in Peace</dc:title>
@@ -54930,6 +55054,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-memory-of-june-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-memory-of-june-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Memory of June</dc:title>
@@ -54972,6 +55097,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-winter-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/to-winter-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To Winter</dc:title>
@@ -55006,6 +55132,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/winter-in-the-country-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/winter-in-the-country-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Winter in the Country</dc:title>
@@ -55050,6 +55177,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/after-the-winter-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/after-the-winter-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>After the Winter</dc:title>
@@ -55085,6 +55213,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-tropics-in-new-york-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-tropics-in-new-york-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Tropics in New York</dc:title>
@@ -55116,6 +55245,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/i-shall-return-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/i-shall-return-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>I Shall Return</dc:title>
@@ -55150,6 +55280,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-castaways-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-castaways-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Castaways</dc:title>
@@ -55183,6 +55314,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/december-1919-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/december-1919-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>December, 1919</dc:title>
@@ -55215,6 +55347,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/flame-heart-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/flame-heart-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Flame-Heart</dc:title>
@@ -55264,6 +55397,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/in-bondage-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/in-bondage-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>In Bondage</dc:title>
@@ -55299,6 +55433,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-shadows-poem-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/harlem-shadows-poem-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Harlem Shadows</dc:title>
@@ -55337,6 +55472,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-harlem-dancer-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-harlem-dancer-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Harlem Dancer</dc:title>
@@ -55372,6 +55508,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-prayer-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-a-prayer-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Prayer</dc:title>
@@ -55402,6 +55539,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-barrier-by-claude-mckay">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-barrier-by-claude-mckay"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Barrier</dc:title>
@@ -55435,6 +55573,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-when-dawn-comes-to-the-city-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-when-dawn-comes-to-the-city-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>When Dawn Comes to the City</dc:title>
@@ -55499,6 +55638,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-choice-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-the-choice-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Choice</dc:title>
@@ -55527,6 +55667,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-sukee-river-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-sukee-river-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Sukee River</dc:title>
@@ -55576,6 +55717,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-exhortation-summer-1919-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/claude-mckay-exhortation-summer-1919-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Exhortation: Summer 1919</dc:title>
@@ -55638,6 +55780,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-the-dunbar-speaker-and-entertainer-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-the-dunbar-speaker-and-entertainer-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Dunbar Speaker and Entertainer</dc:title>
@@ -55740,6 +55883,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/leslie-pinckney-hill-foreword-to-the-dunbar-speaker-and-entertainer-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/leslie-pinckney-hill-foreword-to-the-dunbar-speaker-and-entertainer-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Foreword" to the "Dunbar Speaker and Entertainer"</dc:title>
@@ -55770,6 +55914,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-the-sparrows-fall-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/frances-ew-harper-the-sparrows-fall-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Sparrow's Fall</dc:title>
@@ -55820,6 +55965,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charlotte-forten-grimke-a-june-song-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/charlotte-forten-grimke-a-june-song-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A June Song</dc:title>
@@ -55891,6 +56037,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-in-the-morning-1903">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-in-the-morning-1903"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>In the Morning</dc:title>
@@ -55962,6 +56109,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-wen-dey-listed-colored-soldiers-1901">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-wen-dey-listed-colored-soldiers-1901"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>W'en Dey 'Listed Colored Soldiers</dc:title>
@@ -56024,6 +56172,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-white-witch-1915">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/james-weldon-johnson-the-white-witch-1915"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The White Witch</dc:title>
@@ -56115,6 +56264,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-the-lights-at-carneys-point-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-the-lights-at-carneys-point-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Lights at Carney's Point</dc:title>
@@ -56172,6 +56322,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-shall-i-say-my-son-you-are-branded-1919">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-shall-i-say-my-son-you-are-branded-1919"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Shall I Say 'My Son, You Are Branded'?</dc:title>
@@ -56200,6 +56351,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/orlando-cw-taylor-in-flanders-fields--an-echo-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/orlando-cw-taylor-in-flanders-fields--an-echo-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>In Flanders Fields--An Echo</dc:title>
@@ -56240,6 +56392,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-i-sit-and-sew-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-i-sit-and-sew-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>I Sit and Sew</dc:title>
@@ -56283,6 +56436,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-everette-hawkins-ethiopian-maid-1917">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/walter-everette-hawkins-ethiopian-maid-1917"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Ethiopian Maid</dc:title>
@@ -56322,6 +56476,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-to-the-negro-farmers-of-the-united-states-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/alice-dunbar-nelson-to-the-negro-farmers-of-the-united-states-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>To the Negro Farmers of the United States</dc:title>
@@ -56357,6 +56512,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/t-thomas-fortune-nat-turner-1884">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/t-thomas-fortune-nat-turner-1884"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Nat Turner</dc:title>
@@ -56421,6 +56577,7 @@ An' to his Mirandy.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-law-morgan-figgs-poetic-pearls-1920">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-law-morgan-figgs-poetic-pearls-1920"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poetic Pearls</dc:title>
@@ -57084,6 +57241,7 @@ In Jehovah's name we welcome you.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/leslie-pinckney-hill-wings-of-oppression-full-text-1921">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/leslie-pinckney-hill-wings-of-oppression-full-text-1921"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Wings of Oppression</dc:title>
@@ -59033,6 +59191,7 @@ The teacher leaning hard on Thee.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/countee-cullen-the-black-christ-and-other-poems-full-text-1929">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/countee-cullen-the-black-christ-and-other-poems-full-text-1929"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Black Christ and Other Poems</dc:title>
@@ -60999,6 +61158,7 @@ Paris, January 31, 1929.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-c-blades-negro-poems-melodies-plantation-pieces-camp-meeting-songs-etc-full-text-">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/william-c-blades-negro-poems-melodies-plantation-pieces-camp-meeting-songs-etc-full-text-"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Negro Poems, Melodies, Plantation Pieces, Camp Meeting Songs, Etc.</dc:title>
@@ -67190,6 +67350,7 @@ Plantation Pieces, Camp Meeting Songs
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joshua-henry-jones-jr-poems-of-the-four-seas-full-text-1921">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/joshua-henry-jones-jr-poems-of-the-four-seas-full-text-1921"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems of the Four Seas</dc:title>
@@ -68498,6 +68659,7 @@ Oh, vanished hour!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-law-morgan-figgs-nuggets-of-gold-1921">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-law-morgan-figgs-nuggets-of-gold-1921"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Nuggets of Gold</dc:title>
@@ -69480,6 +69642,7 @@ SMILE, WORK AND SING
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-bronze-full-text-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-bronze-full-text-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Bronze</dc:title>
@@ -70020,6 +70183,7 @@ In brotherhood forever.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-widening-light-full-text-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/carrie-williams-clifford-the-widening-light-full-text-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Widening Light</dc:title>
@@ -71265,6 +71429,7 @@ Full richly robed as supermen at last!
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-complete-poems-of-paul-laurence-dunbar-1922">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/paul-laurence-dunbar-complete-poems-of-paul-laurence-dunbar-1922"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Complete Poems of Paul Laurence Dunbar</dc:title>
@@ -84422,6 +84587,7 @@ HOW SHALL I WOO THEE
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/j-pauline-smith-exceeding-riches-and-other-verse-1922-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/j-pauline-smith-exceeding-riches-and-other-verse-1922-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Exceeding Riches and Other Verse</dc:title>
@@ -86266,6 +86432,7 @@ MISCELLANEOUS
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sarah-collins-fernandis-poems-full-text-1925">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/sarah-collins-fernandis-poems-full-text-1925"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Poems</dc:title>
@@ -87146,6 +87313,7 @@ To win in the battle of right against wrong.)
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/clara-ann-thompson-a-garland-of-poems-1926-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/clara-ann-thompson-a-garland-of-poems-1926-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>A Garland of Poems</dc:title>
@@ -89269,6 +89437,7 @@ They came—and found the house and yard,
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-fine-clothes-to-the-jew-1927-full-text">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-fine-clothes-to-the-jew-1927-full-text"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>Fine Clothes to the Jew</dc:title>
@@ -90428,6 +90597,7 @@ I been blue all night long.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/countee-cullen-the-ballad-of-a-brown-girl-1927">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/countee-cullen-the-ballad-of-a-brown-girl-1927"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>The Ballad of a Brown Girl</dc:title>
@@ -90674,6 +90844,7 @@ I been blue all night long.
         <dc:language>eng</dc:language>
     </aap:artifact>
     <aap:artifact rdf:about="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-an-autumn-love-cycle-full-text-1928">
+	<rdfs:seeAlso rdf:resource="https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/georgia-douglas-johnson-an-autumn-love-cycle-full-text-1928"/>
         <collex:federation>ModNets</collex:federation>
         <collex:archive>AAP</collex:archive>
         <dc:title>An Autumn Love Cycle</dc:title>
